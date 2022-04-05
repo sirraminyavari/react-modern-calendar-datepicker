@@ -1,6 +1,6 @@
 {
   "name": "ramin-modern-calendar-datepicker",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "description": "A modern, beautiful, customizable date picker for React",
   "main": "lib/index.js",
   "types": "index.d.ts",
@@ -21,7 +21,8 @@
     "lib",
     "index.d.ts"
   ],
-  "author": "Ramin Yavari",
+  "author": "Kiarash Zarinmehr",
+  "homepage": "https://kiarash-z.github.io/react-modern-calendar-datepicker",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kiarash-Z/react-modern-calendar-datepicker.git"

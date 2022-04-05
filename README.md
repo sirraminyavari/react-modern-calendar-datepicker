@@ -1,4 +1,4 @@
-# react-modern-calendar-datepicker
+# ramin-modern-calendar-datepicker
 [![Build Status](https://travis-ci.org/Kiarash-Z/react-modern-calendar-datepicker.svg?branch=master)](https://travis-ci.org/Kiarash-Z/react-modern-calendar-datepicker) [![codecov.io](https://codecov.io/github/kiarash-z/react-modern-calendar-datepicker/coverage.svg?branch=master)](https://codecov.io/github/kiarash-z/react-modern-calendar-datepicker?branch=master) ![npm](https://img.shields.io/npm/v/react-modern-calendar-datepicker)
 
 A modern, beautiful, customizable date picker for React.
@@ -9,10 +9,10 @@ A modern, beautiful, customizable date picker for React.
 
 ## Installation 🚀
 ```bash
-npm i react-modern-calendar-datepicker
+npm i ramin-modern-calendar-datepicker
 
 # or if you prefer Yarn:
-yarn add react-modern-calendar-datepicker
+yarn add ramin-modern-calendar-datepicker
 ```
 
 ## Documentation 📄
